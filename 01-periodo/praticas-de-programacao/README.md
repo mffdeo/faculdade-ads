@@ -79,21 +79,43 @@ carrinho-de-compras/
 
 ---
 
-## ▶️ Como Executar
+## ▶️ Como executar
 
-1. Clone o repositório:
+Este projeto faz parte de um repositório maior contendo toda a minha trajetória acadêmica.
 
-```bash
-git clone <url-do-repositorio>
-```
+---
 
-2. Acesse a pasta do projeto:
+### 🔽 1. Clone o repositório
 
 ```bash
-cd carrinho-de-compras
+git clone git@github.com:mffdeo/faculdade-ads.git
 ```
 
-3. Abra o arquivo `index.html` no navegador
+---
+
+### 📁 2. Acesse a pasta do projeto
+
+```bash
+cd faculdade-ads/01-periodo/praticas-de-programacao/carrinho-de-compras
+```
+
+---
+
+### 🌐 3. Execute o projeto
+
+Abra o arquivo `index.html` no navegador.
+
+---
+
+## 💡 Observação
+
+Este projeto foi desenvolvido como parte da disciplina **Práticas de Programação**, no 1º período da graduação, com o objetivo de aplicar na prática conceitos de:
+
+* Lógica de programação
+* Estruturas de decisão e repetição
+* Funções e manipulação de dados
+* Integração com HTML, CSS e JavaScript
+
 
 ---
 
