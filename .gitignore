@@ -1,0 +1,108 @@
+# =========================
+# 🧠 SISTEMA OPERACIONAL
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# 🛠️ EDITORES / IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# 📦 NODE / JAVASCRIPT
+# =========================
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+dist/
+build/
+.next/
+out/
+
+# =========================
+# 🌐 FRONT-END
+# =========================
+.cache/
+.parcel-cache/
+
+# =========================
+# 🐍 PYTHON (caso use)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# =========================
+# ☕ JAVA
+# =========================
+*.class
+*.jar
+*.war
+target/
+bin/
+
+# =========================
+# 🧾 C / C++
+# =========================
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# =========================
+# 🔐 VARIÁVEIS DE AMBIENTE
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# 📸 ARQUIVOS DESNECESSÁRIOS
+# =========================
+*.log
+*.tmp
+
+# =========================
+# 📦 ARQUIVOS COMPRIMIDOS
+# =========================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# =========================
+# 📄 DOCUMENTOS GERADOS
+# =========================
+*.pdf
+*.docx
+*.pptx
+
+# =========================
+# 🧪 TESTES / COBERTURA
+# =========================
+coverage/
+.nyc_output/
+
+# =========================
+# 🔥 PERSONALIZADO
+# =========================
+# prints locais (se quiser ignorar)
+prints/
