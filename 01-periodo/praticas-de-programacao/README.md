@@ -76,11 +76,13 @@ O projeto consistiu na construção de um **carrinho de compras**, utilizando:
 ## ⚙️ Estrutura do Projeto
 
 ```bash
-carrinho-de-compras/
+├── carrinho-de-compras/
+│   ├── assets/
+│   ├── index.html
+│   ├── carrinho.css
+│   ├── carrinho.js
 │
-├── index.html
-├── carrinho.css
-├── carrinho.js
+└── README.md
 ```
 
 ---
