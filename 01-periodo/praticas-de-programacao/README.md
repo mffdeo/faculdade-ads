@@ -61,7 +61,7 @@ O projeto consistiu na construção de um **carrinho de compras**, utilizando:
 ## 🖼️ Preview do Projeto
 
 <p align="center">
-  <img src="./assets/carrinho.png" alt="Tela do carrinho" width="800"/>
+  ![Preview](https://raw.githubusercontent.com/mffdeo/faculdade-ads/main/01-periodo/praticas-de-programacao/assets/carrinho.png)
 </p>
 
 ### 📌 Objetivos do Projeto
