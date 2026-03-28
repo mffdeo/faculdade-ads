@@ -58,6 +58,12 @@ O projeto consistiu na construção de um **carrinho de compras**, utilizando:
 * JavaScript (lógica)
 * Bootstrap (framework front-end)
 
+## 🖼️ Preview do Projeto
+
+<p align="center">
+  <img src="./assets/carrinho.png" alt="Tela do carrinho" width="800"/>
+</p>
+
 ### 📌 Objetivos do Projeto
 
 * Aplicar lógica de programação em um cenário real
